@@ -2,7 +2,7 @@ import nltk
 import spacy
 import re
 nltk.download('stopwords')
-from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.tokenize import word_tokenize, sent_tokenize lllllll
 from nltk.corpus import stopwords
 
 # Define english stopwords
